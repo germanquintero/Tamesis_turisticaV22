@@ -1,0 +1,342 @@
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/icobares"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/guiabares"
+                android:textSize="35dp"
+                android:textColor="#ff0202ae"
+                android:layout_weight="0.5"
+                android:textStyle="italic"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="5dp"
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/introbares"
+            android:textSize="15dp"
+            android:textColor="#ff000000"
+            android:layout_weight="0.5"
+            android:textStyle="italic"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/numeracion" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/textviewbode"
+                android:text="@string/discotecalabarra"
+                android:textColor="#ff1a01db"
+                />
+
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/discolabarra" />
+
+            <TextView
+                style="@style/textviewbode"
+                android:text="@string/descripcionlabrra"
+                android:textColor="#ff1b12be"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/black"
+            android:layout_marginTop="10dp"
+            />
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/numeracion" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/textviewbode"
+                android:text="@string/discotecaelparaiso"
+                android:textColor="#ff1a01db"
+                />
+
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/discotecaparaiso" />
+
+            <TextView
+                style="@style/textviewbode"
+                android:text="@string/descripdiscotecaelparaiso"
+                android:textColor="#ff1b12be"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+
+
+
+        <TextView
+            style="@style/textviewbode"
+            android:text="@string/paraisodireccion"
+            android:textColor="#fffd9609"
+            android:textStyle="bold"
+            />
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/black"
+            android:layout_marginTop="10dp"
+            />
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/numeracion" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/textviewbode"
+                android:text="@string/kiosco"
+                android:textColor="#ff1a01db"
+                />
+
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/kiosco" />
+
+            <TextView
+                style="@style/textviewbode"
+                android:text="@string/descripciomkiosco"
+                android:textColor="#ff1b12be"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/black"
+            android:layout_marginTop="10dp"
+            />
+
+
+
+
+
+
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/numeracion" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/textviewbode"
+                android:text="@string/maite"
+                android:textColor="#ff1a01db"
+                />
+
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/maite" />
+
+            <TextView
+                style="@style/textviewbode"
+                android:text="@string/descripcionmaite"
+                android:textColor="#ff1b12be"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="5dp"
+            android:background="@android:color/black"
+            android:layout_marginTop="10dp"
+            />
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

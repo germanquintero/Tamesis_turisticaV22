@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Ven a Támesis MD</string>
+
+    <string name="action_settings">Volver</string>
+    <string name="title_activity_activity_hoteles">Hoteles</string>
+    <string name="title_activity_activity_bares">Sitios de Esparcimiento</string>
+    <string name="title_activity_activity_sitios">Sitios De Interés</string>
+    <string name="title_activity_activity_demografia">Demografía</string>
+    <string name="title_activity_activity_acercade">Acerca de</string>
+
+
+    <string name="hoteles">Hoteles</string>
+    <string name="bares">Bares</string>
+    <string name="sitios">Sitios de Interés</string>
+    <string name="demografia">Demografía</string>
+    <string name="acercade">Acerca de </string>
+    <string name="loading">Cargando...</string>
+
+
+    <string name="retornar">Ir al Inicio</string>
+
+
+
+    <string name="turistiando">De Turismo Por Támesis</string>
+    <string name="descripcion"
+        >El municipio de Támesis se encuentra ubicado en el suroeste antioqueño, a
+        tan solo 108 kms de Medellín y cuenta con una temperatura promedio de 21 grados centigrados.
+        Su principal atractivo es su riqueza natural, en especial la hídrica. </string>
+
+    <string name="preparado">Descubre lo que Támesis Tiene Preparado para Tí</string>
+    <string name="splash_tamesis">Támesis, Sitio de Hermosos Lugares para Descubrir y Disfrutar</string>
+    <string name="guiahoteles">Guía Hotelera</string>
+    <string name="introhoteles">Támesis cuenta con una gran variedad de hoteles, posadas y Restaurantes
+        los cuales son atractivos para los que visitan Nuestro Municipio en las Diversas Festividades y épocas de el Año.
+    Tiene. Tiene hermosas cabañas apropiadas para la meditación y el contacto profundo con la naturaleza.</string>
+    <string name="hotelcristorey"> Hotel Cristo Rey</string>
+    <string name="descrihotelcristorey"> El hotel Cristo rey uno de los más importantes del Municipio
+    Cuenta con cómodas habitaciones, servicio de baño privado , Mini Bar, TV por cable, Internet, Ventilación y ela mejor
+    atención para hacer de su estadía en nuestro municipio una experiencia inolvidable.</string>
+    <string name="cristoreytelefono"> Teléfono: (57)8495845</string>
+    <string name="cristoreydireccion">Dirección: Plaza Princial Támesis</string>
+    <string name="hotelparaiso"> Hotel Paraíso</string>
+    <string name="descripcionhotelparaiso">El Hotel paraís ubicado en la plaza principal es la mejor opción
+    para quienes quieran tener un espacio y zona de confort. Contamos con servicio de estacionamiento gratuito, servicio de alimentación. Internet,
+    Televisión. Servicio las 24 horas a cómodas tarifas.</string>
+    <string name="paraisotelefono"> Teléfono: (57)8494120</string>
+    <string name="paraisodireccion">Dirección: Plaza Princial Támesis</string>
+    <string name="vitalspa"> Vital Spa</string>
+    <string name="descripcionvitalspa">En Vitall spa, armonizamos tu mente y tu cuerpo por medio de procedimientos
+        prácticos para mejorar la salud, el bienestar , la longevidad y la belleza. Pretendemos brindar
+        información y darte recomendaciones para una mejor nutrición y manejo de las emociones.</string>
+    <string name="vitalspatelefono"> Teléfono: (57)8496466</string>
+    <string name="fincaguacari"> Finca Hotel Guacarí</string>
+    <string name="hotelcasacampesina"> Finca Hotel Casa Campesina</string>
+    <string name="guacaritelefono"> Teléfono: (57)8494518</string>
+    <string name="hotelcasacampesinatelefono"> Teléfono: (57)8494580</string>
+
+
+
+    <string name="guiabares">Bares y Discotecas</string>
+    <string name="introbares">Los mejores sitios para la sana diversión y esparcimiento Nocturno
+    está en támesis, todos los días puedes disfrutar de estos escenarios que te abren las puertas
+    con el ambiente más agradable y la mejor Música.</string>
+    <string name="discotecalabarra">Discoteca La Barra</string>
+    <string name="descripcionlabrra">Ubicada a tan solo una cuadra del Parque principal es la discoteca
+    más popular en Támesis, los mejores cockteles y la mejor música le harán pasar una noche agradable. </string>
+
+
+    <string name="discotecaelparaiso">Discoteca el Paraíso</string>
+    <string name="descripdiscotecaelparaiso">Disfruta de de la Mejor Rumba Crossover. Te esperamos.</string>
+
+
+    <string name="kiosco">kiosco Parque Principal</string>
+    <string name="descripciomkiosco">El Kiosco del parque principal es sin duda el punto de referencia de nuestro
+        municipio, con agradable vista a la plaza principal tienes que visitarlo. </string>
+
+    <string name="maite">Heladería Maite</string>
+    <string name="descripcionmaite">Disfrute de una agradable vista de la plaza principal, mientras degusta de un
+        delicioso tinto, perico o milo y muchas bebidas más. visitanos para complacerte con
+        la mejor música de todos los tiempos y la mejor atención.</string>
+
+
+    <string name="sitiosdeinteres">Sitios de Interés</string>
+    <string name="sitiosrecomendados">Sitios de Recomendados</string>
+    <string name="otrossitiosrecomendados">Otros Sitios de Recomendados</string>
+    <string name="cristorey">Cerro Cristo Rey</string>
+    <string name="petroglifos">Petroglifos</string>
+    <string name="aventura">Deportes de Aventura</string>
+
+
+
+
+    <string name="descricristorey">Sobre la parte alta del municipio se eleva la imagen de Cristo Salvador. Conoce la estatua
+        de 11 metros de altura que ha identificado por décadas este atractivo natural.
+    El recorrido, caracterizado por la vegetación, inicia por los senderos ecológicos del Jardín Botánico y llega hasta la cima del cerro. Desde allí podrás admirar una panorámica del Valle del Cartama.</string>
+
+
+    <string name="descripcionsitios">
+        En Támesis aatractivos poco comunes captan el interés de los visitantes, como los petroglifos tallados por los indígenas en
+        grandes rocas de la zona .En sus áreas rurales hay cascadas, balnearios naturales, caminos de arrieros
+        y cerros que sirven de miradores naturales y se convierten en el escenario natural perfecto para la práctica de
+        diferentes deportes Extremos y de Aventura. </string>
+
+    <string name="descripetroglifos">Son cerca de 120 rocas talladas hace más de 1.000 años por las comunidades indígenas Quimbaya y Cartama. Cada una de
+        las inscripciones representa el testimonio de la historia y la cosmogonía que rodeaba su cultura.
+    Acércate a la historia por medio de figuras geométricas y motivos antropomorfos que recrean las formas de vida e interacción que distinguía a los nativos.</string>
+
+    <string name="descriaventura">Varios accidentes geográficos, entre los que destacan las cascadas San Antonio y La Peinada,
+        te permitirán practicar escalada, rappel, canotaje, descenso neumático y torrentismo.</string>
+
+
+
+
+
+    <string name="casacultura">Casa de la Cultura</string>
+    <string name="descricasacultura">Visita esta casa de estilo republicano, construida en 1925 por el arquitecto belga
+        Agustin Goovaerts. Es sede del Museo de Arte Ecuménico, donde se exhibe una colección de 100 pinturas al óleo en las que están representadas las diferentes religiones del mundo. Allí verás destacadas algunas imágenes de las culturas inca, maya e hindú.</string>
+
+    <string name="otrossitios">Otros Sitios Recomendados</string>
+
+    <string name="valleriofrio">Valle del Río Frío</string>
+    <string name="descrivalleriofrio">Esta formación se distingue por la vegetación, senderos y espacios naturales
+        destinados para el descanso y la recreación. A lo largo del territorio encontrarás áreas para camping y podrás disfrutar de aguas cristalinas de origen natural.</string>
+
+
+
+
+    <string name="introdemografia">Támesis está situado en el suroeste de Antioquia, limita con los municipios de
+        Jericó, Fredonia, Valparaiso, Caramanta y Jardín. Está conformado por dos corregimientos, 37 veredas y un resguardo indígena.
+        Tiene 150 años de Fundado el Municipio.
+    </string>
+
+
+    <string name="datostamesis">Generalidades de Támesis</string>
+    <string name="fundacion">Fundación: 1858</string>
+    <string name="eleccion">Año elección como municipio: 1864</string>
+    <string name="fundador">Nombre del Fundador: Rafael Gómez Trujillo</string>
+    <string name="otrosnombres">Otros Nombres Recibidos: San Antonio de Támesis</string>
+    <string name="poblacion">Población: 16663 Habitantes</string>
+    <string name="gentilicio">Gentilicio:Tamesinos</string>
+    <string name="clima">Clima: 21°C (Templado)</string>
+    <string name="extension">Extensión:243Km2</string>
+    <string name="altura">Altura:1600 MSNM</string>
+    <string name="distancia">Distancia Medellín:108KM</string>
+    <string name="economia">Economía: Café Frutales, Ganadería y Turismo</string>
+
+
+    <string name="banderayescudo">Bandera, Escudo y Mapa</string>
+    <string name="simbolos">Estos son Los Símbolos Municipales de Támesis, Así Como su ubicación en el Mapa</string>
+    <string name="fiestas">Las Fiestas del Cacao</string>
+    <string name="descrifiestas"> Las tradicionales fiestas Municipales del Cacao se llevan a cabo la primera semana de Enero incluyen serenatas con mariachis y tríos, juegos pirotécnicos, un festival del despecho,
+        tablado con orquestas, riña de gallos y feria de artesanías.</string>
+
+    <string name="describandera">La bandera está compuesta por tres franjas horizontales con los colores blanco verde y amarillo.
+    El blanco simboliza la paz, el verde las montañas circundantes y el amarillo las riquezas naturales.
+    El Escudo en su parte superior muestra el río San Antonio como símbolo de riqueza hídrica. La rama de café y el ejemplar
+    vacuno muestran la economía del municipio. El hacha rupestre es símbolo de la cultura indígena que aún perdura
+    en el área.</string>
+
+
+    <string name="acercade1">Desarrollada por Germán Quintero. Medellín 2015. Soporte: geraqf@yahoo.com</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

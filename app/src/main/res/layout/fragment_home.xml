@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/turistiando"
+        android:textSize="40dp"
+        android:textColor="#ff0ec31d"
+        android:textStyle="italic"
+        android:gravity="center"
+        />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/descripcion"
+        android:textSize="18dp"
+        android:textColor="#ff020106"
+        android:textStyle="italic"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        />
+
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/preparado"
+        android:textSize="20dp"
+        android:textColor="#ff0312d1"
+        android:textStyle="bold"
+        android:gravity="center"
+
+
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+
+        >
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:src="@drawable/main_tamesis"
+            android:layout_marginTop="10dp"
+
+            />
+
+    </LinearLayout>
+</LinearLayout>

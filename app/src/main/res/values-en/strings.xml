@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Go to Tamesis MD</string>
+
+    <string name="action_settings">Return</string>
+    <string name="title_activity_activity_hoteles">Hotels</string>
+    <string name="title_activity_activity_bares">Bars and clubs</string>
+    <string name="title_activity_activity_sitios">Interesting Sites</string>
+    <string name="title_activity_activity_demografia">Demography</string>
+    <string name="title_activity_activity_acercade">About it</string>
+
+
+    <string name="hoteles">Hotels</string>
+    <string name="bares">Bars</string>
+    <string name="sitios">Interesting Sites</string>
+    <string name="demografia">Demography</string>
+    <string name="acercade">About it </string>
+    <string name="loading">Loading...</string>
+
+
+    <string name="retornar">Home</string>
+
+
+
+    <string name="turistiando">Traveling Tamesis</string>
+    <string name="descripcion"
+        >The municipality of Tamesis is located in southwestern Antioquia, to
+        Just 108 kms of Medellín and has an average temperature of 21 degrees Celsius.
+        Its main attraction is its natural resources, especially water. </string>
+
+    <string name="preparado">Discover what Tamesis has prepared for you</string>
+    <string name="splash_tamesis">Tamesis site of beautiful places to discover and enjoy</string>
+    <string name="guiahoteles">Hotel guide</string>
+    <string name="introhoteles">Tamesis has a variety of hotels, inns and restaurants
+         which they are attractive to those who visit our town in the various festivities and times of the year.
+    It has. It has beautiful  cabins appropriate for meditation and deep contact with nature.</string>
+    <string name="hotelcristorey"> Cristo Rey Hotel</string>
+    <string name="descrihotelcristorey"> Cristo Rey  hotel one of the most important in the municipality has
+        comfortable rooms, a private bathroom, mini bar, cable TV, Internet, Ventilation and ela better care to make your stay in our town unforgettable.</string>
+    <string name="cristoreytelefono"> Thelephone: (57)8495845</string>
+        <string name="cristoreydireccion">Address: Principal Plaza Tamesis</string>
+    <string name="hotelparaiso">The Paradise Hotel</string>
+    <string name="descripcionhotelparaiso">The Paradise Hotel is located in the main square is the best choice for those who want to have a space and comfort zone. We have complimentary parking,
+        food service. Internet, Television. Service 24 hours a comfortable rates.</string>
+    <string name="paraisotelefono"> Telephone: (57)8494120</string>
+    <string name="paraisodireccion">Address: Principal Plaza Tamesis</string>
+    <string name="vitalspa"> Vital Spa</string>
+    <string name="descripcionvitalspa">n Vitall spa, harmonize your mind and body through practical method for improving the health, wellness, longevity and beauty. We intend to provide information and
+        give recommendations for better nutrition and managing emotions.</string>
+    <string name="vitalspatelefono"> Thelephone: (57)8496466</string>
+    <string name="fincaguacari"> Finca Hotel Guacarí</string>
+    <string name="hotelcasacampesina"> Finca Hotel Casa Campesina</string>
+    <string name="guacaritelefono"> Telephone: (57)8494518</string>
+    <string name="hotelcasacampesinatelefono"> Thelephone: (57)8494580</string>
+
+
+
+    <string name="guiabares">Bars and Clubs</string>
+    <string name="introbares">The best places for good fun and night entertainment is in Tamesis, every day you can enjoy these scenes that
+        open the doors to the pleasant atmosphere and the best music.</string>
+    <string name="discotecalabarra">La Barra Club</string>
+    <string name="descripcionlabrra">It located just one block from the main park is the most popular disco
+        in Tamesis, the best cocktails and the best music will make for an enjoyable evening. </string>
+
+
+    <string name="discotecaelparaiso">The Paradise Club</string>
+    <string name="descripdiscotecaelparaiso">Enjoy the Best Crossover Rumba. We will wait for you.</string>
+
+
+    <string name="kiosco">kiosko Principal Park</string>
+    <string name="descripciomkiosco">The kiosk main park is definitely the benchmark of our town,
+        with nice view to the main square have to visit. </string>
+
+    <string name="maite">Maite Heladeria</string>
+    <string name="descripcionmaite">Enjoy a nice view of the main square, while enjoying a
+    delicious red, parrot or milo and thousands more drinks. Visit us to please you with
+        the best music of all time and the best service.</string>
+
+
+    <string name="sitiosdeinteres">Interesting Sites</string>
+    <string name="sitiosrecomendados">Recommended sites</string>
+    <string name="otrossitiosrecomendados">Other Recommended Sites</string>
+    <string name="cristorey">Cerro Cristo Rey</string>
+    <string name="petroglifos">Petroglyphs</string>
+    <string name="aventura">Adventure</string>
+
+
+
+
+    <string name="descricristorey">On the upper town image of Christ the Saviour is raised. Meet the statue 11 meters high, has been identified for decades this natural attraction. The route, characterized by vegetation, initiated by the ecological paths of the Botanical Garden and reaches the top of the hill. From there you can admire a panoramic Cartama Valley.</string>
+
+
+    <string name="descripcionsitios">
+       In rare attractive Tamesis capture the interest of visitors, such as petroglyphs carved by Indians on large rocks in the area .In its rural areas there are waterfalls, natural spas, drovers roads and hills that serve as natural viewpoints
+        and become perfect for practicing different extreme sports and adventure natural setting. </string>
+
+    <string name="descripetroglifos">They are about 120 rock carved more than 1,000 years ago by indigenous communities Quimbaya and Cartama. Each of the entries is testimony to the history and culture surrounding cosmogony. Approach the story through geometric and anthropomorphic figures that recreate lifestyles and interaction that distinguished native.</string>
+
+    <string name="descriaventura">Several features, among which are the waterfalls San Antonio and La Peinada,
+        allow you to practice climbing, abseiling, canoeing, and canyoning descent tire.</string>
+
+
+
+
+
+    <string name="casacultura">Casa de la Cultura</string>
+    <string name="descricasacultura">Visit this Republican style house, built in 1925 by the Belgian architect Agustin Goovaerts. It houses the Museum of Art Ecumenical, where a collection of 100 oil in which are represented the different religions of the world is displayed.
+        There you will see some images of prominent Inca, Mayan and Hindu cultures.</string>
+
+    <string name="otrossitios">Other Recommended Sites</string>
+
+    <string name="valleriofrio">Cold River Valley</string>
+    <string name="descrivalleriofrio">This formation is characterized by vegetation, trails and natural areas intended for rest and recreation. Throughout the country you will find camping areas and you can enjoy crystal clear waters of natural origin</string>
+
+
+
+
+    <string name="introdemografia">Thames is located in the southwest of Antioquia, bordering the towns of Jericho, Fredonia, Valparaiso, Caramanta and Garden. It consists of two townships,
+        37 villages and a receipt indígena.Tiene Founded 150 years of the municipality.
+    </string>
+
+
+    <string name="datostamesis">Thames Overview</string>
+    <string name="fundacion">Foundation: 1858</string>
+    <string name="eleccion">Year election as town: 1864</string>
+    <string name="fundador">Name Founder: Rafael Gómez Trujillo</string>
+    <string name="otrosnombres">Other Names Received: San Antonio de Támesis</string>
+    <string name="poblacion">Population: 16663 inhabitants</string>
+    <string name="gentilicio">Gentilicio:Tamesinos</string>
+    <string name="clima">Weather: 21°C (Warm)</string>
+    <string name="extension">Extension:243Km2</string>
+    <string name="altura">Height:1600 MSNM</string>
+    <string name="distancia">Distance of Medellin:108KM</string>
+    <string name="economia">Economy: Coffee Fruit, Livestock and Tourism</string>
+
+
+    <string name="banderayescudo">Flag, Shield and Map</string>
+    <string name="simbolos">These are the symbols Municipal Thames and its location on the Map</string>
+    <string name="fiestas">The Feast Cocoao</string>
+    <string name="descrifiestas"> Cocoa Municipal traditional fiestas are held the first week of January include serenades with mariachis and trios, fireworks,
+        a festival of spite, platform with orchestras, cockfight and crafts fair.</string>
+
+    <string name="describandera">The flag consists of three horizontal stripes with white green and yellow colors. White symbolizes peace, green the surrounding mountains and yellow natural resources. Shield on top shows the San Antonio river as a symbol of water wealth. The branch of coffee and beef exemplary show the town  economy. The rock ax is a symbol of Indian culture that still exists in the area.</string>
+
+
+    <string name="acercade1">Developed by Germán Quintero. Medellin 2015. Support: geraqf@yahoo.com</string>
+
+
+
+</resources>

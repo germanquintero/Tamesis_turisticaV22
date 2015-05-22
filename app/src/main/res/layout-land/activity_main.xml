@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/frame1"
+            android:layout_height="fill_parent"
+            android:layout_width="wrap_content">
+
+            <fragment
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:name="mainactivity.germanquintero.com.tamesis_turisticav22.MyMenu"
+                android:id="@+id/fragment1"
+                tools:layout="@layout/fragment_my_menu"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true">
+            </fragment>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/frame2"
+            android:layout_height="fill_parent"
+            android:layout_width="wrap_content">
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
