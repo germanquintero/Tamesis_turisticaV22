@@ -3,6 +3,7 @@ package mainactivity.germanquintero.com.tamesis_turisticav22;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.app.ListFragment;
+import android.content.Intent;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -20,6 +21,7 @@ public class MyMenu extends ListFragment {
             "Sitios de Interés",
             "Demografia",
             "Acerca de",
+            "Ver Mapa",
 
     };
 
@@ -74,6 +76,13 @@ public class MyMenu extends ListFragment {
                 fragmentTransaction.replace(R.id.frame2, fragment).commit();
             }
 
+            if (position==6) {
+                Intent my_mapa= new Intent(getActivity().getApplicationContext(), MapsActivity.class);
+                startActivity(my_mapa);
+                // MapsActivity fragment = new MapsActivity();
+                //fragmentTransaction.replace(R.id.frame3, fragment).commit();
+            }
+
         }
 
         if (getResources().getConfiguration().orientation == Configuration.ORIENTATION_PORTRAIT){
@@ -108,6 +117,12 @@ public class MyMenu extends ListFragment {
             if (position==5) {
                 acercade fragment = new acercade();
                 fragmentTransaction.replace(R.id.frame3, fragment).commit();
+            }
+            if (position==6) {
+                Intent my_mapa= new Intent(getActivity().getApplicationContext(), MapsActivity.class);
+                startActivity(my_mapa);
+               // MapsActivity fragment = new MapsActivity();
+                //fragmentTransaction.replace(R.id.frame3, fragment).commit();
             }
 
         }
